@@ -1,0 +1,1 @@
+Każde wywołanie ustawia wartość na 1, a nie dodaje kolejny 1 do poprzedniego wyniku. Dlatego po kliknięciu count wynosi 1, a nie 3.
